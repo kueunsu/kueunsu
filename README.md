@@ -1,15 +1,5 @@
-# 이은수의 repository
-## 제목 2
-### 제목 3
-#### 제목 4
-##### 제목 5
+### 이은수의 repository
 
-`num = 100`
-* 항목 1
-* 항목 2
-* 항목 3
-개발 스택
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 - 👋 Hi, I’m @kueunsu
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
